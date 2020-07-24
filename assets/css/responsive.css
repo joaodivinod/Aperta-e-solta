@@ -1,0 +1,604 @@
+@media (max-width: 1800px) {
+    .espaco {
+        height: 1022px;
+    }
+    .beneficios {
+        padding-bottom: 200px;
+    }
+}
+
+@media (max-width: 1800px) {
+    .espaco {
+        height: 1030px;
+    }
+    .beneficios {
+        background-image: url('../img/new-bg-icons.png');
+    }
+    .garantia {
+        margin-top: 0px;
+    }
+}
+
+@media (max-width: 1700px) {
+    .missao {
+        background-size: cover;
+    }
+    .texto h1 {
+        font-size: 60px;
+    }
+    .comunidade p {
+        font-size: 19px;
+        text-align: center;
+    }
+    .jantar {
+        padding-top: 156px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .beneficios {
+        background-image: url(../img/catia-icons-2x.png);
+    }
+    .espaco {
+        height: 925px;
+    }
+    .ciclo-bg {
+        background-size: contain;
+    }
+}
+
+@media (max-width: 1400px) {
+    .espaco {
+        height: 781px;
+    }
+    .beneficios {
+        background-image: url(../img/catia-icons-2x.png);
+    }
+    .jantar {
+        background-position-x: 46%;
+    }
+}
+
+@media (max-width: 1300px) {
+    header {
+        min-height: 1050px;
+    }
+    .bonus {
+        background-position-x: 0px;
+        background-position-y: 187px;
+        min-height: 0px;
+    }
+    .facebook {
+        margin-top: -240px;
+    }
+}
+
+@media (max-width: 1200px) {
+    header {
+        min-height: 1050px;
+        background-position-y: -57px;
+    }
+    .comunidade h1 {
+        font-size: 54px;
+    }
+    .comunidade p {
+        font-size: 24px;
+    }
+    .bonus {
+        padding: 0px;
+    }
+    .jantar {
+        background-position-x: 52%;
+    }
+    .missao {
+        background-size: cover;
+        background-position-x: -296px;
+        
+    }
+    .bg-footer {
+        margin-top: -50px;
+    }
+    .footer-txt {
+        margin-top: -153px;
+    }
+    footer{
+        background-color: #91b3a7;
+    }
+    }
+    
+
+@media (max-width: 1100px) {
+    .title {
+        font-size: 32px;
+    }
+    .sub-title {
+        font-size: 17px;
+    }
+    .comunidade h1 {
+        font-size: 51px;
+    }
+    .semana img {
+        width: 50px;
+    }
+    .dados {
+        background-size: cover;
+    }
+    .dados h1 {
+        font-size: 45px;
+    }
+    .beneficios {
+        background-image: url(../img/catia-icons-2x.png);
+        ;
+    }
+    .espaco {
+        height: 600px;
+    }
+    .missao {
+        background-image: url(../img/missao-full2.png);
+        background-size: auto;
+        background-position-x: -230px;
+        background-position-y: 100px;
+    }
+    .missao p {
+        font-size: 20px;
+    }
+    .copy {
+        margin-right: -214px;
+    }
+    footer p {
+        font-size: 14px;
+    }
+    .footer-txt {
+        background-color: #91b3a7;
+        text-align: center !important;
+        margin-top: -133px;
+
+    }
+    .blog {
+        margin-bottom: 150px;
+    }
+
+    .valores h5 {
+        font-size: 22px;
+    }
+    .valores p {
+        font-size: 15px;
+    }
+
+    header {
+        min-height: 818px;
+        background-position-y: 0px;
+    }
+    .bonus-itens h1 {
+        font-size: 78px;
+    }
+    .bonus-itens h2 {
+        font-size: 16px;
+    }
+    .comunidade p {
+        font-size: 19px;
+    }
+
+}
+
+@media (max-width: 1000px) {
+    .valores p {
+        font-size: 15px;
+    }
+    .valores h5 {
+        font-size: 22px;
+    }
+    header {
+        min-height: 828px;
+    }
+    .bonus {
+        background-position-y: -1px;
+        background-size: cover;
+        background-position-x: -300px;
+    }
+    .bonus-itens h1 {
+        font-size: 75px;
+    }
+    .texto {
+        margin-left: 0px;
+    }
+    .comunidade h1 {
+        font-size: 47px;
+    }
+    .facebook {
+        margin-top: -220px;
+    }
+    .hr-left {
+        margin-left: auto;
+    }
+    .ciclo-bg {
+        background-position-y: 216px;
+    }
+    .ciclo-bg-2 {
+        background-position-y: 0px;
+        background-position-x: 0px;
+
+        background-size: contain;
+    }
+    .hidden-md-down {
+        display: none;
+    }
+    .hidden-md-up {
+        display: block;
+    }
+    .jantar {
+        background-position-y: 0;
+    }
+    .jantar h2 {
+        border-left: 0px solid #fff;
+    }
+    .bg-footer {
+        margin-top: -72px;
+    }
+    .footer-txt {
+        margin-top: -192px;
+    }
+    .ciclo-bg {
+        background-position-y: 1px;
+    }
+    .footer-center img{
+        width: 90%;
+    }
+    footer p {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 900px) {
+    header {
+        min-height: 900px;
+    }
+    .facebook {
+        margin-top: -45px;
+    }
+    .tasks img {
+        width: 100% !important;
+    }
+    .missao h1 {
+        padding: 39px;
+    }
+    .missao {
+        background-image: url(../img/bg-missao.png);
+        background-size: cover;
+    }
+    .beneficios {
+        background-image: url(../img/catia-icons-3x.png);
+        background-size: cover;
+
+    }
+    .espaco {
+        height: 461px;
+    }
+    .jantar {
+        background-position-y: 387px;
+        background-size: contain;
+    }
+    .blog {
+        margin-bottom: 35px;
+    }
+    .footer-center img {
+        width: 24%;
+    }
+    header {
+        min-height: 900px;
+    }
+}
+
+@media (max-width: 800px) {
+    .espaco {
+        height: 421px;
+    }
+    .beneficios {
+        background-size: cover;
+    }
+    missao {
+        background-image: url(../img/catia-icons-5x.png);
+        background-size: cover;
+    }
+    header {
+        min-height: 954px;
+        background-position-x: -335px;
+    }
+    .title {
+        font-size: 33px;
+    }
+    .beneficios {
+        padding-bottom: 140px;
+    }
+    .card-vantagens p {
+        font-size: 15px;
+    }
+    .dados h1 {
+        font-size: 28px;
+    }
+    .dados h3 {
+        text-align: center !important;
+    }
+}
+
+@media (max-width: 767px) {
+    header {
+        background-image: url('../img/bg-header-mobile.png');
+        background-size: cover;
+        background-position-y: 96%;
+        background-position-x: 57%;
+        min-height: 1254px;
+    }
+    .bonus {
+        background-position-y: -186px;
+        background-position-x: 45%;
+    }
+    .barra {
+        border-left: 0px solid #fff;
+        padding-left: 0px;
+        margin-top: 25px;
+    }
+    .beneficios {
+        background-image: url(../img/catia-icons-4x.png);
+        background-size: cover;
+        background-position: center;
+        padding-bottom: 200px;
+    }
+    .espaco {
+        height: 512px;
+    }
+    .ciclo-bg {
+        display: none;
+    }
+    .btn-link {
+        font-size: 16px;
+    }
+    .missao h1 {
+        font-size: 36px;
+    }
+    .missao p {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .hidden700 {
+        display: none !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .missao h1 {
+        padding: 10px;
+    }
+    .valores {
+        margin: 32px auto;
+    }
+    .card-body {
+        font-size: 15px;
+    }
+    .dados {
+        padding-bottom: 0;
+    }
+    .dados h1 {
+        font-size: 35px;
+    }
+    .resgate {
+        margin-top: 20px;
+    }
+    .jantar {
+        padding-top: 0;
+    }
+    .table-img {
+        width: 150px;
+        margin: auto;
+    }
+    .tasks {
+        margin: 20px 0px;
+    }
+    .problema {
+        background-color: #FFEBEB;
+        color: #FF0000;
+    }
+    .resultado {
+        background-color: #C4F0E0;
+        color: #387c6a;
+    }
+    .espaco {
+        height: 300px;
+    }
+    .beneficios {
+        background-image: url(../img/catia-icons-5x.png);
+        background-size: cover;
+    }
+    .beneficios p {
+        font-size: 18px;
+    }
+    .footer-txt {
+        margin-top: -110px;
+    }
+    .jantar h2 {
+        font-size: 25px;
+    }
+    .desculpa {
+        text-align: center !important;
+    }
+    .card {
+        margin: 20px 0px;
+    }
+    .blog {
+        margin-bottom: 70px;
+    }
+    .comunidade h1 {
+        font-size: 35px;
+    }
+    .facebook {
+        margin-top: -20px;
+    }
+    table {
+        border: 0;
+    }
+    table caption {
+        font-size: 1.3em;
+    }
+    table thead {
+        border: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+    }
+    table tr {
+        border-bottom: 3px solid #ddd;
+        display: block;
+        margin-bottom: .625em;
+    }
+    table td {
+        border-bottom: 1px solid #ddd;
+        display: block;
+        font-size: .8em;
+        text-align: right;
+    }
+    table td:last-child {
+        border-bottom: 0;
+    }
+    .beneficios {
+        padding-bottom: 255px
+    }
+    .bg-footer {
+        margin-top: -86px;
+    }
+}
+
+@media (max-width: 500px) {
+    header {
+        min-height: 1072px;
+    }
+    .card-vantagens {
+        margin-top: 33px;
+    }
+    .btn-link {
+        font-size: 14px;
+    }
+    .footer-txt {
+        margin-top: -90px;
+    }
+    .card-vantagens h3 {
+        font-size: 15px;
+    }
+    .card-vantagens p {
+        font-size: 15px;
+    }
+    .semana h3 {
+        font-size: 20px;
+    }
+    .semana p {
+        font-size: 14px;
+    }
+    .comunidade p {
+        font-size: 15px;
+    }
+    .comunidade h1 {
+        font-size: 27px;
+    }
+    .bonus-itens h2 {
+        font-size: 17px;
+    }
+    .bonus-itens h1 {
+        font-size: 70px;
+    }
+    header h1 {
+        font-size: 20px;
+    }
+    .espaco {
+        height: 275px;
+    }
+    .beneficios {
+        padding-bottom: 0;
+        background-position-y: -4px;
+
+    }
+}
+
+@media(max-width:400px) {
+    .blog img {
+        max-width: 100%;
+    }
+    header {
+        background-position-y: 90%;
+        min-height: 931px;
+    }
+    .beneficios p {
+        font-size: 15px;
+    }
+    .btn-link {
+        text-align: left;
+    }
+    .title {
+        font-size: 25px;
+    }
+    .sub-title {
+        font-size: 16px;
+    }
+    .valores h5 {
+        font-size: 19px;
+    }
+    .valores p {
+        font-size: 13px;
+    }
+    .dados h1 {
+        font-size: 30px;
+    }
+    table {
+        margin-bottom: -150px;
+    }
+    .beneficios {
+        background-image: url(../img/catia-icons-mobile.png);
+    }
+    .ciclo{
+        margin-top: 60px;
+    }
+    .ciclo img {
+        width: 153px;
+    }
+    .missao h1 {
+        font-size: 25px;
+    }
+    .footer-txt img {
+        width: 150px;
+    }
+    .footer-txt a {
+        font-size: 15px;
+    }
+    .footer-txt {
+        margin-top: -60px;
+    }
+}
+
+@media(max-width:360px) {
+    .ciclo p {
+        font-size: 17px;
+    }
+    .beneficios {
+        background-image: url(../img/catia-icons-mobilex2.png);
+    }
+    footer p {
+        font-size: 11px;
+    }
+}
+
+@media(max-width:320px) {
+    .beneficios {
+        background-image: url(../img/catia-icons-mobilex4.png);
+    }
+}
+
+@media (max-width: 300px) {
+    header {
+        min-height: 946px;
+    }
+    .espaco {
+        height: 1130px;
+    }
+}

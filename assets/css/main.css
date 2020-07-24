@@ -1,0 +1,544 @@
+/* == MAIN TAGS ==  */
+
+.gray {
+    color: #828282;
+}
+
+.salmao {
+    color: #FF7463;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.sub-title {
+    font-size: 20px;
+}
+
+.hr-left {
+    width: 70px;
+    background-color: #91B3A7;
+    height: 7px;
+    border: 0;
+    margin-left: 0px;
+}
+
+.hr-center {
+    width: 70px;
+    background-color: #91B3A7;
+    height: 7px;
+}
+
+iframe {
+    border-radius: 15px;
+}
+
+/* ==== TOPO ==== */
+
+body {
+    overflow-x: hidden;
+}
+
+main {
+    overflow-x: hidden;
+}
+
+header {
+    background-image: url('../img/bg-1.png');
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+    background-position-y: 140%;
+    min-height: 1100px;
+}
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1307px;
+    }
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+header p {
+    font-size: 16px;
+    color: #202020;
+}
+
+.barra {
+    border-left: 6px solid #91B3A7;
+    padding-left: 35px;
+}
+
+.card-vantagens {
+    margin-top: 100px;
+}
+
+.card-vantagens h3 {
+    font-size: 16px;
+    color: #FF7463;
+}
+
+.card-bar {
+    border-left: 7px solid #91B3A7;
+    height: 70px;
+}
+
+.card-vantagens p {
+    width: 200px;
+    font-size: 14px;
+    padding-right: 55px;
+    line-height: 20px;
+}
+
+/* ==== MAIN ==== */
+
+.main {
+    min-height: 500px;
+}
+
+/* ==== valor curso ==== */
+
+.valores {
+    margin: 35px auto;
+}
+
+.valores h6 {
+    color: #AFAFAF;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: -10px;
+}
+
+.valores h4 {
+    font-size: 92px;
+    font-weight: bold;
+    color: #464646;
+}
+
+.valores span {
+    font-size: 42px;
+    color: #464646;
+}
+
+.tasks {
+    margin: 85px 0px;
+}
+
+.valores h5 {
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.valores p {
+    font-size: 18px;
+    margin-top: -13px;
+}
+
+.btn-incricao {
+    background-color: #49CFCA;
+    border: 0;
+    border-radius: 10px;
+    color: #fff;
+    -webkit-box-shadow: 0px 9px 14px -5px rgba(0, 0, 0, 0.63);
+    -moz-box-shadow: 0px 9px 14px -5px rgba(0, 0, 0, 0.63);
+    box-shadow: 0px 9px 14px -5px rgba(0, 0, 0, 0.20);
+}
+
+.btn-incricao:hover {
+    background-color: #2f9491;
+    color: #fff;
+}
+
+/* === TV ==== */
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* == BONUS == */
+
+.bonus {
+    background-image: url(../img/bg-bonus.png);
+    background-repeat: no-repeat no-repeat;
+    background-size: contain;
+    background-position-y: 53%;
+    min-height: 1179px;
+}
+
+/* BONUS ITENS */
+
+.bonus-itens h1 {
+    font-size: 110px;
+    color: #91B3A7;
+}
+
+.bonus-itens h2 {
+    font-size: 20px;
+}
+
+.bonus-itens p {
+    font-size: 16px;
+    color: #B2B2B2;
+}
+
+/* COMUNIDADE */
+
+.comunidade h1 {
+    font-size: 75px;
+    color: #91B3A7;
+}
+
+.comunidade .card {
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.facebook {
+    margin-top: -350px;
+}
+
+.texto {
+    margin-left: 70px;
+}
+
+.caslon {
+    font-family: 'Libre Caslon Text', serif;
+}
+
+/* SEMANAS DE TREINO */
+
+.semana {
+    -webkit-box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+    box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.semana h3 {
+    font-size: 23px;
+    color: #91B3A7;
+}
+
+.semana p {
+    font-size: 14px;
+    margin-top: 16px;
+    color: #202020;
+}
+
+.dia {
+    padding: 1px;
+    padding: 36px 40px 24px 36px;
+}
+
+/* Dados */
+
+.dados {
+    background-image: url(../img/bg-dados.png);
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+    background-position-y: -6px;
+    padding-bottom: 50px;
+}
+
+.dados h1 {
+    font-family: 'Libre Caslon Text', serif;
+    font-size: 49px;
+}
+
+.lista {
+    margin-top: 50px;
+}
+
+.lista th {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    min-width: 400px;
+    padding: 10px 50px;
+    font-weight: 900;
+    border-top: 0px solid;
+}
+
+.verde {
+    color: #80ADA1 !important;
+}
+
+.lista td {
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    padding: 30px 10px;
+}
+
+.beneficios {
+    background-image: url('../img/new-bg-icons.png');
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    padding-bottom: 421px;
+}
+
+.icones img {
+    width: 80px;
+    margin: auto;
+}
+
+.icones {
+    max-width: 900px;
+    margin: auto;
+}
+
+.blog {
+    margin-bottom: 59px;
+}
+
+.missao {
+    margin-top: -136px;
+}
+
+.espaco {
+    height: 1200px;
+}
+
+.beneficios p {
+    font-size: 20px;
+}
+
+.blog img {
+    max-width: 70%;
+}
+
+/* CICLO */
+
+.ciclo p {
+    color: #BBBBBB;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.ciclo-bg {
+    background-image: url('../img/casal-02.png');
+    background-repeat: no-repeat no-repeat;
+    background-size: contain;
+}
+
+.ciclo-bg-2 {
+    background-image: url('../img/casal-01.png');
+    background-repeat: no-repeat no-repeat;
+    background-size: contain;
+    background-position-x: 153px;
+}
+
+.resgate {
+    margin-top: 150px;
+}
+.resultado span{
+    padding-left: 55px;
+}
+/* Historias */
+
+.jantar {
+    background-image: url(../img/bg-pink.png);
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+    background-position-y: 96%;
+    padding-top: 330px;
+}
+
+.jantar h2 {
+    font-size: 44px;
+    border-left: 7px solid #91B3A7;
+    padding-left: 25px;
+}
+
+
+
+/* Perguntas */
+
+.card {
+    border: 0px solid;
+    margin: 5px 0px;
+}
+
+.card-header {
+    background-color: #EDEFF1;
+    border-radius: 50px !important;
+    border: 0px solid;
+    -webkit-box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+    box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+}
+
+.card-body {
+    -webkit-box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+    box-shadow: 0px 6px 12px -1px rgba(0, 0, 0, 0.19);
+    border-radius: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: #B2B2B2;
+    padding: 44px;
+}
+
+.btn-link {
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    color: #202020;
+}
+
+.btn-link:hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+.btn-link:focus {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.fa-chevron-right:before {
+    content: "\f054";
+    margin-left: 13px;
+}
+
+/* MISSÃO */
+
+.missao {
+    background-image: url('../img/missao-full.png');
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+}
+
+.missao h1 {
+    font-size: 45px;
+    border-left: 6px solid #91B3A7;
+    padding-left: 35px;
+    margin-top: 300px;
+}
+
+.missao p {
+    font-size: 20px;
+}
+
+/* FOOTER*/
+
+footer p {}
+
+.bg-footer {
+    z-index: 3;
+    margin-top: -65px;
+}
+
+.footer-txt {
+    margin-top: -160px;
+}
+
+/* DESCULPA RE */
+
+.desculpa {
+    max-width: 946px;
+    margin: auto;
+}
+
+.table-img {
+    max-width: 70px;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+table tr {
+    border-bottom: 1px solid #ddd;
+    padding: .35em;
+}
+
+table th, table td {
+    padding: .625em;
+    text-align: center;
+}
+
+table th {
+    font-size: .85em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.hidden-md-up {
+    display: none;
+}
+
+.mobile700 {
+    display: none;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    background-color: #73BFAE;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 3px;
+}
+
+.motivo {
+    width: 350px;
+    margin: auto;
+    font-size: 16px;
+}
+
+.motivo i {
+    font-size: 40px;
+    margin-top: -120px;
+}
+
+.correto {
+    background-color: #C4F0E0;
+    border-radius: 50px;
+    margin-top: -20px;
+    margin-bottom: 40px;
+}
+
+.errado {
+    background-color: #FFEBEB;
+    border-radius: 50px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+.fa-times-circle {
+    color: #FF0000;
+}
+
+.fa-check-circle {
+    color: #80ADA1;
+}
+
+.html5-main-video {
+    padding: 50px;
+}
+
+.direitos a {
+    font-weight: bold;
+    font-size: 17px;
+    color: #fff;
+}
+
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none;
+}
+
+.historias{
+    display: none;
+}
